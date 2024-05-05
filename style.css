@@ -23,3 +23,8 @@ nav {
   nav a:hover {
     background-color: #111111;
   }
+
+  div .profile-img {
+    max-width: 50%;
+    height: auto;
+}
