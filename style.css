@@ -20,11 +20,11 @@ p {
   text-align: center;
 }
 
-.profile-img {
+.home-banner {
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%;
+width: 75%;
 }
 
 div.container {
@@ -35,6 +35,7 @@ ul.myUL {
   display: inline-block;
   text-align: left;
 }
+
 /*======================================================
                           Navbar
   ======================================================*/
